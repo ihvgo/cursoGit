@@ -10,5 +10,13 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 
 
+----
 
+
+
+Pessoas participantes:
+
+
+
+-- Hugo
 
