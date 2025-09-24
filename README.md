@@ -8,6 +8,11 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
+Confira tudo no canal do TeoMeWhy no Youtube. É grátis! Segue o link:
+
+[Curso Git 2025] (https://youtube.com/@teomewhy)
+
+
 ## Fluxo de trabalho git local
 
 01. git clone <endereço do projeto>
